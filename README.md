@@ -39,3 +39,27 @@ The script should perform the following tasks:
 4. The first column should contain the name of each fruit.
 5. The second column should contain the total quantity of that fruit.
 
+## Task 4
+Write a Python program using NumPy to perform the following tasks on a given array: 
+1. Create a NumPy array with the following values: [1, 2, 3, 4, 5]. 
+2. Print the shape of the array using the .shape attribute. 
+3. Reshape the array into a 2D array with 2 rows and 3 columns. 
+4. Print the shape of the new array. 
+5. Create a second NumPy array with the following values: [6, 7, 8, 9, 10]. 
+6. Concatenate the two arrays together horizontally. 
+7. Print the resulting array. 
+8. Compute the resulting array's mean, median, and standard deviation.
+
+## Task 5
+1. Write a Python code to Create a figure with 2x2 subplots. 2. In the first subplot (top-left), plot a bar chart using the following data: 
+Categories: ['Category A', 'Category B', 'Category C', 'Category D', 'Category E'] 
+Values: [23, 56, 41, 62, 19] 
+3. In the second subplot (top-right), plot a histogram using the following data: 
+Data: [12, 17, 21, 18, 14, 13, 16, 9, 12, 15, 19, 11, 14, 16, 20, 18, 15, 13, 16, 11, 10] 
+4. In the third subplot (bottom-left), plot a pie chart using the following data: 
+Labels: ['Apple', 'Banana', 'Orange', 'Mango'] 
+Sizes: [30, 25, 15, 30] 
+5. In the fourth subplot (bottom-right), plot a scatter plot using the following data: 
+X values: [1, 2, 3, 4, 5] 
+Y values: [2, 5, 3, 6, 4] 
+6. Add appropriate titles and labels to each subplot. 7. Adjust the spacing between subplots to avoid overlapping. 
